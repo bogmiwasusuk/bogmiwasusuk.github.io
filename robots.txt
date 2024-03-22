@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bogmiwasusuk.github.io/sitemap.xml
